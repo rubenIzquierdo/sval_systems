@@ -1,0 +1,4654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test_tokens corpus="semeval2007_task17_allwords">
+  <token doc_id="d00" token_id="d00.s00.t09">
+    <gold_keys>
+      <key value="refer%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="refer%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s00.t11">
+    <gold_keys>
+      <key value="research%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="research%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s00.t22">
+    <gold_keys>
+      <key value="report%2:32:04::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="report%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s01.t01">
+    <gold_keys>
+      <key value="comment%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="comment%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s01.t02">
+    <gold_keys>
+      <key value="imply%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="imply%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s01.t06">
+    <gold_keys>
+      <key value="discover%2:39:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="discover%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s01.t11">
+    <gold_keys>
+      <key value="cause%1:11:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="cause%1:04:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s01.t19">
+    <gold_keys>
+      <key value="find%2:39:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="find%2:40:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s02.t02">
+    <gold_keys>
+      <key value="make%2:36:12::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s02.t05">
+    <gold_keys>
+      <key value="statement%1:10:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="statement%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s03.t14">
+    <gold_keys>
+      <key value="become%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="become%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s04.t02">
+    <gold_keys>
+      <key value="cause%1:11:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="cause%1:11:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s04.t08">
+    <gold_keys>
+      <key value="understand%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="understand%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s05.t02">
+    <gold_keys>
+      <key value="quote%2:32:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="quote%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s05.t07">
+    <gold_keys>
+      <key value="emphasize%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="emphasize%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s06.t03">
+    <gold_keys>
+      <key value="note%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="note%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s06.t07">
+    <gold_keys>
+      <key value="people%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="people%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s06.t10">
+    <gold_keys>
+      <key value="examine%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="examine%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s06.t12">
+    <gold_keys>
+      <key value="have%2:29:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s06.t14">
+    <gold_keys>
+      <key value="multitude%1:23:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="multitude%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s07.t01">
+    <gold_keys>
+      <key value="suffer%2:29:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="suffer%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s08.t01">
+    <gold_keys>
+      <key value="people%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="people%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s08.t04">
+    <gold_keys>
+      <key value="lack%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lack%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s08.t09">
+    <gold_keys>
+      <key value="shelter%1:26:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="shelter%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s08.t13">
+    <gold_keys>
+      <key value="lack%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lack%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s08.t16">
+    <gold_keys>
+      <key value="necessity%1:17:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="necessity%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t09">
+    <gold_keys>
+      <key value="point_out%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="point_out%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t14">
+    <gold_keys>
+      <key value="problem%1:26:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="problem%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t16">
+    <gold_keys>
+      <key value="predispose%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="predispose%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t18">
+    <gold_keys>
+      <key value="person%1:03:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="person%1:03:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t33">
+    <gold_keys>
+      <key value="category%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="category%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t35">
+    <gold_keys>
+      <key value="compose%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="compose%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t49">
+    <gold_keys>
+      <key value="lack%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lack%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s09.t51">
+    <gold_keys>
+      <key value="shelter%1:26:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="shelter%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s10.t01">
+    <gold_keys>
+      <key value="interaction%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="interaction%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s10.t10">
+    <gold_keys>
+      <key value="defy%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="defy%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s10.t12">
+    <gold_keys>
+      <key value="generalization%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="generalization%1:09:03::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s11.t02">
+    <gold_keys>
+      <key value="look_to%2:31:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="look_to%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s11.t08">
+    <gold_keys>
+      <key value="prevent%2:41:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="prevent%2:41:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s12.t02">
+    <gold_keys>
+      <key value="require%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="require%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s12.t05">
+    <gold_keys>
+      <key value="develop%2:30:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="develop%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s12.t10">
+    <gold_keys>
+      <key value="understanding%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="understanding%1:09:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s12.t19">
+    <gold_keys>
+      <key value="possess%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="possess%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s12.t28">
+    <gold_keys>
+      <key value="develop%2:30:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="develop%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s14.t01">
+    <gold_keys>
+      <key value="study%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="study%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s14.t07">
+    <gold_keys>
+      <key value="say%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="say%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s15.t01">
+    <gold_keys>
+      <key value="study%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="study%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s15.t02">
+    <gold_keys>
+      <key value="show%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="show%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s15.t12">
+    <gold_keys>
+      <key value="make_up%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make_up%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s15.t27">
+    <gold_keys>
+      <key value="exhibit%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="exhibit%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s15.t29">
+    <gold_keys>
+      <key value="combination%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="combination%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s16.t11">
+    <gold_keys>
+      <key value="problem%1:26:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="problem%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s16.t39">
+    <gold_keys>
+      <key value="create%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="create%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s16.t51">
+    <gold_keys>
+      <key value="result%2:42:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="result%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s16.t65">
+    <gold_keys>
+      <key value="connect%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="connect%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s16.t74">
+    <gold_keys>
+      <key value="person%1:03:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="person%1:03:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s16.t75">
+    <gold_keys>
+      <key value="live%2:42:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="live%2:42:08::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s18.t02">
+    <gold_keys>
+      <key value="quote%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="quote%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s18.t06">
+    <gold_keys>
+      <key value="director%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="director%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s18.t12">
+    <gold_keys>
+      <key value="center%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="center%1:15:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s18.t29">
+    <gold_keys>
+      <key value="sleep%2:29:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="sleep%2:29:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s18.t35">
+    <gold_keys>
+      <key value="rob%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rob%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s19.t30">
+    <gold_keys>
+      <key value="fend%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="fend%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s20.t07">
+    <gold_keys>
+      <key value="have%2:29:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s20.t12">
+    <gold_keys>
+      <key value="addiction%1:26:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="addiction%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s21.t04">
+    <gold_keys>
+      <key value="fall%2:38:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="fall%2:38:03::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t01">
+    <gold_keys>
+      <key value="dismiss%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="dismiss%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t07">
+    <gold_keys>
+      <key value="view%1:09:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="view%1:09:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t10">
+    <gold_keys>
+      <key value="reduction%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="reduction%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t20">
+    <gold_keys>
+      <key value="play%2:41:12::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="play%2:41:12::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t23">
+    <gold_keys>
+      <key value="role%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="role%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t27">
+    <gold_keys>
+      <key value="number%1:07:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="number%1:07:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s24.t31">
+    <gold_keys>
+      <key value="woman%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="woman%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s25.t06">
+    <gold_keys>
+      <key value="bother%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="bother%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s25.t09">
+    <gold_keys>
+      <key value="consider%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="consider%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s26.t01">
+    <gold_keys>
+      <key value="research%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="research%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s26.t02">
+    <gold_keys>
+      <key value="stop%2:42:13::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="stop%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s26.t06">
+    <gold_keys>
+      <key value="assertion%1:10:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="assertion%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s26.t09">
+    <gold_keys>
+      <key value="make%2:36:12::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t08">
+    <gold_keys>
+      <key value="march%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="march%1:28:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t16">
+    <gold_keys>
+      <key value="choose%2:31:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="choose%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t19">
+    <gold_keys>
+      <key value="cite%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="cite%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t21">
+    <gold_keys>
+      <key value="group%1:03:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="group%1:03:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t40">
+    <gold_keys>
+      <key value="insinuate%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="insinuate%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t44">
+    <gold_keys>
+      <key value="get%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="get%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t47">
+    <gold_keys>
+      <key value="support%1:21:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="support%1:04:04::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t54">
+    <gold_keys>
+      <key value="know%2:31:12::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="know%2:31:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t57">
+    <gold_keys>
+      <key value="thing%1:09:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="thing%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t60">
+    <gold_keys>
+      <key value="see%2:39:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="see%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t68">
+    <gold_keys>
+      <key value="crusade%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="crusade%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s28.t70">
+    <gold_keys>
+      <key value="base%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="base%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s29.t09">
+    <gold_keys>
+      <key value="force%1:07:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="force%1:07:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s29.t14">
+    <gold_keys>
+      <key value="subscribe%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="subscribe%2:40:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s29.t19">
+    <gold_keys>
+      <key value="advertise%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="advertise%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s30.t04">
+    <gold_keys>
+      <key value="mention%2:32:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="mention%2:32:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s30.t19">
+    <gold_keys>
+      <key value="organization%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="organization%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s30.t22">
+    <gold_keys>
+      <key value="participate%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="participate%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s31.t08">
+    <gold_keys>
+      <key value="homeless%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="homeless%5:00:00:unsettled:01"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s31.t11">
+    <gold_keys>
+      <key value="undergo%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="undergo%2:39:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s31.t13">
+    <gold_keys>
+      <key value="examination%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="examination%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s31.t16">
+    <gold_keys>
+      <key value="suggest%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="suggest%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s31.t19">
+    <gold_keys>
+      <key value="conduct%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="conduct%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s31.t22">
+    <gold_keys>
+      <key value="survey%1:04:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="survey%1:04:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s32.t01">
+    <gold_keys>
+      <key value="choose%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="choose%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s32.t04">
+    <gold_keys>
+      <key value="executive%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="executive%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s32.t06">
+    <gold_keys>
+      <key value="include%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="include%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s32.t18">
+    <gold_keys>
+      <key value="put%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="put%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s32.t28">
+    <gold_keys>
+      <key value="deprive%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="deprive%2:40:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s33.t02">
+    <gold_keys>
+      <key value="predict%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="predict%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s33.t12">
+    <gold_keys>
+      <key value="find%2:31:10::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="find%2:40:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d00" token_id="d00.s33.t35">
+    <gold_keys>
+      <key value="increase%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="increase%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s00.t19">
+    <gold_keys>
+      <key value="account%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="account%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s00.t25">
+    <gold_keys>
+      <key value="begin%2:42:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="begin%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s01.t10">
+    <gold_keys>
+      <key value="give%2:40:07::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="give%2:40:03::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s01.t13">
+    <gold_keys>
+      <key value="example%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="example%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t02">
+    <gold_keys>
+      <key value="offer%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="offer%2:40:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t06">
+    <gold_keys>
+      <key value="trip%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="trip%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t29">
+    <gold_keys>
+      <key value="tell%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="tell%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t31">
+    <gold_keys>
+      <key value="reader%1:18:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="reader%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t38">
+    <gold_keys>
+      <key value="accept%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="accept%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t47">
+    <gold_keys>
+      <key value="write_about%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="write_about%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s02.t52">
+    <gold_keys>
+      <key value="decline%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="decline%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s03.t01">
+    <gold_keys>
+      <key value="question%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="question%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s03.t06">
+    <gold_keys>
+      <key value="author%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="author%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s03.t08">
+    <gold_keys>
+      <key value="believe%2:31:04::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="believe%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s03.t21">
+    <gold_keys>
+      <key value="answer%2:31:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="answer%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s03.t25">
+    <gold_keys>
+      <key value="read%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="read%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s03.t27">
+    <gold_keys>
+      <key value="book%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="book%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t15">
+    <gold_keys>
+      <key value="lead%2:38:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lead%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t19">
+    <gold_keys>
+      <key value="path%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="path%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t22">
+    <gold_keys>
+      <key value="travel%2:38:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="travel%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t32">
+    <gold_keys>
+      <key value="company%1:14:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="company%1:14:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t39">
+    <gold_keys>
+      <key value="contractor%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="contractor%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t41">
+    <gold_keys>
+      <key value="entrust%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="entrust%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s04.t48">
+    <gold_keys>
+      <key value="produce%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="produce%2:36:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s05.t01">
+    <gold_keys>
+      <key value="book%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="book%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s05.t02">
+    <gold_keys>
+      <key value="revolve_around%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="revolve_around%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s05.t19">
+    <gold_keys>
+      <key value="become%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="become%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s05.t21">
+    <gold_keys>
+      <key value="partner%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="partner%1:18:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s06.t02">
+    <gold_keys>
+      <key value="start%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="start%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s06.t10">
+    <gold_keys>
+      <key value="get%2:30:12::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="get%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s06.t12">
+    <gold_keys>
+      <key value="roll%2:35:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="roll%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s06.t19">
+    <gold_keys>
+      <key value="discover%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="discover%2:39:03::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s06.t31">
+    <gold_keys>
+      <key value="programme%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="program%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s07.t07">
+    <gold_keys>
+      <key value="creation%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="creation%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s07.t10">
+    <gold_keys>
+      <key value="mandate%2:32:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="mandate%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s07.t14">
+    <gold_keys>
+      <key value="contract%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="contract%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s07.t16">
+    <gold_keys>
+      <key value="award%2:40:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="award%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s08.t02">
+    <gold_keys>
+      <key value="realize%2:31:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="realize%2:31:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s08.t14">
+    <gold_keys>
+      <key value="qualify%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="qualify%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s09.t02">
+    <gold_keys>
+      <key value="partner%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="partner%1:18:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s09.t04">
+    <gold_keys>
+      <key value="have%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s09.t07">
+    <gold_keys>
+      <key value="falsify%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="falsify%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s09.t10">
+    <gold_keys>
+      <key value="ownership%1:21:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ownership%1:21:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s10.t04">
+    <gold_keys>
+      <key value="become%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="become%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s11.t10">
+    <gold_keys>
+      <key value="locate%2:40:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="locate%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s11.t19">
+    <gold_keys>
+      <key value="area%1:15:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="area%1:15:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s11.t21">
+    <gold_keys>
+      <key value="make%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s12.t01">
+    <gold_keys>
+      <key value="company%1:14:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="company%1:14:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s12.t02">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="plug%2:35:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s12.t11">
+    <gold_keys>
+      <key value="rebuild%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rebuild%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s12.t16">
+    <gold_keys>
+      <key value="keep%2:42:07::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="keep%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s12.t18">
+    <gold_keys>
+      <key value="use%2:41:14::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="use%2:34:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s12.t24">
+    <gold_keys>
+      <key value="angle%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="angle%1:25:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t01">
+    <gold_keys>
+      <key value="start%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="start%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t08">
+    <gold_keys>
+      <key value="serve%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="serve%2:33:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t11">
+    <gold_keys>
+      <key value="sentence%1:28:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="sentence%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t15">
+    <gold_keys>
+      <key value="company%1:14:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="company%1:14:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t16">
+    <gold_keys>
+      <key value="begin%2:30:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="begin%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t18">
+    <gold_keys>
+      <key value="career%1:04:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="career%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t21">
+    <gold_keys>
+      <key value="bribe%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="bribe%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t28">
+    <gold_keys>
+      <key value="official%1:18:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="official%1:18:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s13.t41">
+    <gold_keys>
+      <key value="include%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="include%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s14.t04">
+    <gold_keys>
+      <key value="use%2:34:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="use%2:34:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s15.t01">
+    <gold_keys>
+      <key value="make%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s15.t03">
+    <gold_keys>
+      <key value="use%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="use%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s15.t13">
+    <gold_keys>
+      <key value="retain%2:41:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="retain%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s15.t15">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="connect%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s15.t28">
+    <gold_keys>
+      <key value="include%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="include%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s16.t04">
+    <gold_keys>
+      <key value="seek%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="seek%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s16.t06">
+    <gold_keys>
+      <key value="receive%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="receive%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s16.t07">
+    <gold_keys>
+      <key value="assistance%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="assistance%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s17.t02">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="bribe%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s17.t03">
+    <gold_keys>
+      <key value="become%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="become%2:42:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s17.t04">
+    <gold_keys>
+      <key value="partner%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="partner%1:18:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s18.t01">
+    <gold_keys>
+      <key value="management%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="management%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s18.t02">
+    <gold_keys>
+      <key value="use%2:34:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="use%2:34:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s18.t05">
+    <gold_keys>
+      <key value="system%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="system%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s19.t10">
+    <gold_keys>
+      <key value="receive%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="receive%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s19.t19">
+    <gold_keys>
+      <key value="equity%1:21:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="equity%1:21:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s20.t09">
+    <gold_keys>
+      <key value="find%2:39:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="find%2:40:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s20.t17">
+    <gold_keys>
+      <key value="fate%1:11:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="fate%1:11:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s20.t21">
+    <gold_keys>
+      <key value="befall%2:30:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="befall%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s20.t32">
+    <gold_keys>
+      <key value="person%1:03:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="person%1:03:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s21.t22">
+    <gold_keys>
+      <key value="fall_short%2:37:12::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="fall_short%2:37:12::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s22.t04">
+    <gold_keys>
+      <key value="show%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="show%2:39:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s22.t06">
+    <gold_keys>
+      <key value="ingenuity%1:07:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ingenuity%1:09:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s22.t09">
+    <gold_keys>
+      <key value="find%2:39:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="find%2:40:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s23.t04">
+    <gold_keys>
+      <key value="bribe%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="bribe%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s23.t07">
+    <gold_keys>
+      <key value="shut_up%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="shut_up%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s24.t12">
+    <gold_keys>
+      <key value="want%2:37:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="want%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s24.t23">
+    <gold_keys>
+      <key value="clothes%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="clothes%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s25.t09">
+    <gold_keys>
+      <key value="wrestle%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="wrestle%2:33:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s26.t16">
+    <gold_keys>
+      <key value="change%2:30:04::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="change%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s26.t18">
+    <gold_keys>
+      <key value="name%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="name%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s26.t24">
+    <gold_keys>
+      <key value="become%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="become%2:42:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s26.t29">
+    <gold_keys>
+      <key value="author%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="author%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s27.t01">
+    <gold_keys>
+      <key value="enter%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="enter%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s27.t14">
+    <gold_keys>
+      <key value="get%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="get%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s27.t16">
+    <gold_keys>
+      <key value="arrest%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="arrest%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s28.t01">
+    <gold_keys>
+      <key value="absorb%2:31:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="absorb%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s28.t14">
+    <gold_keys>
+      <key value="author%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="author%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s28.t15">
+    <gold_keys>
+      <key value="gloss_over%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="gloss_over%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s28.t31">
+    <gold_keys>
+      <key value="program%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="program%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s28.t36">
+    <gold_keys>
+      <key value="scandal%1:11:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="scandal%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s28.t37">
+    <gold_keys>
+      <key value="take_place%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="take_place%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s29.t04">
+    <gold_keys>
+      <key value="come_around%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come_around%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s29.t08">
+    <gold_keys>
+      <key value="say%2:32:13::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="say%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s29.t11">
+    <gold_keys>
+      <key value="court%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="court%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s29.t13">
+    <gold_keys>
+      <key value="want%2:37:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="want%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s29.t16">
+    <gold_keys>
+      <key value="end%2:30:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="end%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s29.t21">
+    <gold_keys>
+      <key value="program%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="program%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s30.t12">
+    <gold_keys>
+      <key value="leave%2:31:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="leave%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s30.t13">
+    <gold_keys>
+      <key value="gold%1:27:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="gold%1:21:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s30.t19">
+    <gold_keys>
+      <key value="express%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="express%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s30.t20">
+    <gold_keys>
+      <key value="surprise%1:12:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="surprise%1:12:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s30.t23">
+    <gold_keys>
+      <key value="walk%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="walk%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s30.t27">
+    <gold_keys>
+      <key value="scoop%2:35:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="scoop%2:35:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s31.t07">
+    <gold_keys>
+      <key value="one%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="one%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s31.t11">
+    <gold_keys>
+      <key value="have%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s31.t14">
+    <gold_keys>
+      <key value="characteristic%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="characteristic%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s32.t01">
+    <gold_keys>
+      <key value="take_place%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="take_place%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s32.t05">
+    <gold_keys>
+      <key value="program%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="program%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s32.t08">
+    <gold_keys>
+      <key value="seem%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="seem%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s33.t02">
+    <gold_keys>
+      <key value="program%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="program%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s33.t06">
+    <gold_keys>
+      <key value="eliminate%2:30:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="eliminate%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s34.t05">
+    <gold_keys>
+      <key value="provide%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="provide%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s34.t08">
+    <gold_keys>
+      <key value="clue%1:10:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="clue%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s35.t12">
+    <gold_keys>
+      <key value="group%1:03:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="group%1:03:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s35.t14">
+    <gold_keys>
+      <key value="people%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="people%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s35.t20">
+    <gold_keys>
+      <key value="describe%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="describe%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s35.t24">
+    <gold_keys>
+      <key value="belong%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="belong%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t01">
+    <gold_keys>
+      <key value="know%2:31:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="know%2:31:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t04">
+    <gold_keys>
+      <key value="government%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="government%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t06">
+    <gold_keys>
+      <key value="redistribute%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="redistribute%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t07">
+    <gold_keys>
+      <key value="wealth%1:21:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="wealth%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t09">
+    <gold_keys>
+      <key value="regulate%2:41:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="regulate%2:41:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t10">
+    <gold_keys>
+      <key value="commerce%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="commerce%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t12">
+    <gold_keys>
+      <key value="maintain%2:34:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="maintain%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t16">
+    <gold_keys>
+      <key value="establishment%1:14:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="establishment%1:14:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t22">
+    <gold_keys>
+      <key value="money%1:21:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="money%1:21:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t27">
+    <gold_keys>
+      <key value="make%2:40:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t31">
+    <gold_keys>
+      <key value="influence%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="influence%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t33">
+    <gold_keys>
+      <key value="broker%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="broker%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s36.t39">
+    <gold_keys>
+      <key value="decision%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="decision%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s37.t12">
+    <gold_keys>
+      <key value="have%2:39:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s37.t15">
+    <gold_keys>
+      <key value="wish%1:12:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="wish%1:12:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s37.t18">
+    <gold_keys>
+      <key value="see%2:39:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="see%2:39:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s37.t20">
+    <gold_keys>
+      <key value="change%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="change%1:24:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s38.t07">
+    <gold_keys>
+      <key value="exist%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="exist%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s38.t10">
+    <gold_keys>
+      <key value="line%1:10:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="line%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s38.t12">
+    <gold_keys>
+      <key value="pocket%1:21:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pocket%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s39.t04">
+    <gold_keys>
+      <key value="issue%1:09:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="issue%1:09:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d01" token_id="d01.s39.t05">
+    <gold_keys>
+      <key value="raise%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="raise%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s00.t04">
+    <gold_keys>
+      <key value="reach%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="reach%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s00.t14">
+    <gold_keys>
+      <key value="lean%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lean%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s00.t25">
+    <gold_keys>
+      <key value="ask%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ask%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s00.t28">
+    <gold_keys>
+      <key value="want%2:37:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="want%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s00.t31">
+    <gold_keys>
+      <key value="ride%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ride%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s01.t06">
+    <gold_keys>
+      <key value="read%2:31:09::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="read%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s01.t22">
+    <gold_keys>
+      <key value="take_up%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="take_up%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s02.t01">
+    <gold_keys>
+      <key value="man%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="man%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s02.t05">
+    <gold_keys>
+      <key value="represent%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="represent%2:42:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s02.t08">
+    <gold_keys>
+      <key value="attempt%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="attempt%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s02.t11">
+    <gold_keys>
+      <key value="introduce%2:36:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="introduce%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s02.t13">
+    <gold_keys>
+      <key value="bit%1:23:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="bit%1:23:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t04">
+    <gold_keys>
+      <key value="embody%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="embody%2:42:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t07">
+    <gold_keys>
+      <key value="state%1:03:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="state%1:03:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t12">
+    <gold_keys>
+      <key value="come_to%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come_to%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t18">
+    <gold_keys>
+      <key value="try%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="try%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t20">
+    <gold_keys>
+      <key value="find%2:39:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="find%2:39:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t23">
+    <gold_keys>
+      <key value="machine%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="machine%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s03.t32">
+    <gold_keys>
+      <key value="have%2:40:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s04.t01">
+    <gold_keys>
+      <key value="diner%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="diner%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s04.t06">
+    <gold_keys>
+      <key value="light%2:34:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lit%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s04.t10">
+    <gold_keys>
+      <key value="scoff%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="scoff%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s04.t16">
+    <gold_keys>
+      <key value="interrupt%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="interrupt%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s04.t21">
+    <gold_keys>
+      <key value="morning%1:28:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="morning%1:28:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s04.t24">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="go%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s05.t10">
+    <gold_keys>
+      <key value="win%2:33:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="win%2:33:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s05.t13">
+    <gold_keys>
+      <key value="response%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="response%1:04:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s06.t05">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="go%2:42:06::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s06.t06">
+    <gold_keys>
+      <key value="balloon%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ballooning%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s08.t02">
+    <gold_keys>
+      <key value="seem%2:39:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="seem%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s08.t06">
+    <gold_keys>
+      <key value="follow%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="follow%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s08.t11">
+    <gold_keys>
+      <key value="lead%1:04:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lead%1:27:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s08.t13">
+    <gold_keys>
+      <key value="take_to%2:41:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="take_to%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s09.t07">
+    <gold_keys>
+      <key value="number%1:07:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="number%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s09.t15">
+    <gold_keys>
+      <key value="pass%2:41:08::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pass%2:38:03::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s09.t21">
+    <gold_keys>
+      <key value="test%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="test%1:09:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s09.t24">
+    <gold_keys>
+      <key value="swell%2:30:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="swell%2:30:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s09.t35">
+    <gold_keys>
+      <key value="estimate%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="estimate%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s09.t36">
+    <gold_keys>
+      <key value="run%2:42:07::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="run%2:42:04::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s10.t05">
+    <gold_keys>
+      <key value="hold%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hold%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s10.t12">
+    <gold_keys>
+      <key value="include%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="include%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s10.t31">
+    <gold_keys>
+      <key value="attract%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="attract%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s10.t39">
+    <gold_keys>
+      <key value="balloon%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="balloon%1:06:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s10.t47">
+    <gold_keys>
+      <key value="shape%2:36:00::"/>
+      <key value="shape%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="shaped%5:00:00:formed:00"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s10.t50">
+    <gold_keys>
+      <key value="resemble%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="resemble%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s11.t03">
+    <gold_keys>
+      <key value="balloon%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="balloon%1:06:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s11.t05">
+    <gold_keys>
+      <key value="deny%2:40:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="deny%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s11.t09">
+    <gold_keys>
+      <key value="status%1:26:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="status%1:26:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s13.t09">
+    <gold_keys>
+      <key value="hold%2:42:07::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hold%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s13.t12">
+    <gold_keys>
+      <key value="attraction%1:07:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="attraction%1:19:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s14.t01">
+    <gold_keys>
+      <key value="feel%2:39:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="feel%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s14.t11">
+    <gold_keys>
+      <key value="sign_up%2:33:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="sign_up%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s15.t02">
+    <gold_keys>
+      <key value="thing%1:10:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="thing%1:11:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s15.t06">
+    <gold_keys>
+      <key value="tell%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="tell%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s15.t14">
+    <gold_keys>
+      <key value="require%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="require%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s15.t15">
+    <gold_keys>
+      <key value="zip%1:07:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="zip%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s16.t07">
+    <gold_keys>
+      <key value="look%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="look%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s17.t03">
+    <gold_keys>
+      <key value="tell%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="tell%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s17.t09">
+    <gold_keys>
+      <key value="hate%2:37:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hate%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s17.t10">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="height%1:07:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s17.t15">
+    <gold_keys>
+      <key value="balloon%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="balloon%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s18.t03">
+    <gold_keys>
+      <key value="say%2:32:13::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="say%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s18.t07">
+    <gold_keys>
+      <key value="look%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="look%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s19.t06">
+    <gold_keys>
+      <key value="ascend%2:38:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ascend%2:38:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s20.t04">
+    <gold_keys>
+      <key value="tell%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="tell%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s20.t11">
+    <gold_keys>
+      <key value="go%2:30:04::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="go%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s20.t19">
+    <gold_keys>
+      <key value="want%2:37:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="want%2:37:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s20.t22">
+    <gold_keys>
+      <key value="get%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="get%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s21.t03">
+    <gold_keys>
+      <key value="refer%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="refer%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s22.t02">
+    <gold_keys>
+      <key value="talk%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="talk%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s24.t02">
+    <gold_keys>
+      <key value="pilot%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pilot%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s24.t05">
+    <gold_keys>
+      <key value="speak%2:32:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="speak%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s25.t05">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="voyage%1:04:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s25.t10">
+    <gold_keys>
+      <key value="refer%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="refer%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s25.t16">
+    <gold_keys>
+      <key value="begin%2:42:04::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="begin%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s25.t24">
+    <gold_keys>
+      <key value="end%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="end%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s26.t02">
+    <gold_keys>
+      <key value="flight%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="flight%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s26.t05">
+    <gold_keys>
+      <key value="occur%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="occur%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t02">
+    <gold_keys>
+      <key value="come%2:42:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come%2:38:04::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t03">
+    <gold_keys>
+      <key value="lot%1:23:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lot%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t09">
+    <gold_keys>
+      <key value="watch%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="watch%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t11">
+    <gold_keys>
+      <key value="balloon%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="balloon%1:06:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t12">
+    <gold_keys>
+      <key value="inflate%2:30:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="inflate%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t17">
+    <gold_keys>
+      <key value="stand%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="stand%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t20">
+    <gold_keys>
+      <key value="decide%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="decide%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t24">
+    <gold_keys>
+      <key value="fly%2:38:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="fly%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t34">
+    <gold_keys>
+      <key value="basket%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="basket%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s27.t35">
+    <gold_keys>
+      <key value="hold%2:42:14::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hold%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s28.t11">
+    <gold_keys>
+      <key value="follow%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="follow%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s28.t13">
+    <gold_keys>
+      <key value="progress%1:11:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="progress%1:11:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s28.t22">
+    <gold_keys>
+      <key value="listen%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="listen%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s28.t25">
+    <gold_keys>
+      <key value="driver%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="driver%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s28.t26">
+    <gold_keys>
+      <key value="holler%2:32:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="holler%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t08">
+    <gold_keys>
+      <key value="come%2:42:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t13">
+    <gold_keys>
+      <key value="minute%1:28:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="minute%1:28:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t16">
+    <gold_keys>
+      <key value="drift%2:38:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="drift%2:38:04::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t21">
+    <gold_keys>
+      <key value="watch%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="watch%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t25">
+    <gold_keys>
+      <key value="rise%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rise%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t32">
+    <gold_keys>
+      <key value="cow%1:05:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="cow%1:05:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s29.t33">
+    <gold_keys>
+      <key value="amble%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="amble%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s30.t07">
+    <gold_keys>
+      <key value="feel%2:31:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="feel%2:31:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s30.t32">
+    <gold_keys>
+      <key value="keep%2:42:07::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="keep%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s30.t33">
+    <gold_keys>
+      <key value="point_out%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="point_out%2:32:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s31.t09">
+    <gold_keys>
+      <key value="come%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s31.t16">
+    <gold_keys>
+      <key value="put%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="put%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s31.t18">
+    <gold_keys>
+      <key value="hand%1:08:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hand%1:08:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s31.t24">
+    <gold_keys>
+      <key value="squint%2:29:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="squint%2:29:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s33.t02">
+    <gold_keys>
+      <key value="come%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s34.t01">
+    <gold_keys>
+      <key value="see%2:31:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="see%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s34.t15">
+    <gold_keys>
+      <key value="steer%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="steer%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t02">
+    <gold_keys>
+      <key value="go%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="go%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t10">
+    <gold_keys>
+      <key value="heat%2:30:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="heat%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t14">
+    <gold_keys>
+      <key value="air%1:27:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="air%1:27:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t18">
+    <gold_keys>
+      <key value="burner%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="burner%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t23">
+    <gold_keys>
+      <key value="make%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t25">
+    <gold_keys>
+      <key value="top%1:15:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="top%1:15:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t29">
+    <gold_keys>
+      <key value="feel%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="feel%1:09:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t33">
+    <gold_keys>
+      <key value="ride%2:42:04::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ride%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s36.t36">
+    <gold_keys>
+      <key value="current%1:11:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="current%1:11:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s37.t02">
+    <gold_keys>
+      <key value="make%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="make%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s37.t05">
+    <gold_keys>
+      <key value="car%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="car%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s38.t03">
+    <gold_keys>
+      <key value="go%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="go%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s38.t10">
+    <gold_keys>
+      <key value="average%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="average%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s38.t16">
+    <gold_keys>
+      <key value="hour%1:28:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hour%1:28:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s39.t02">
+    <gold_keys>
+      <key value="balloon%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="balloon%1:06:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s39.t04">
+    <gold_keys>
+      <key value="cruise%2:38:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="cruise%2:38:03::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s40.t02">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="one%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s40.t04">
+    <gold_keys>
+      <key value="ascend%2:38:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ascend%2:38:02::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s40.t10">
+    <gold_keys>
+      <key value="descend%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="descend%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s41.t04">
+    <gold_keys>
+      <key value="do%2:36:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="do%2:41:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s41.t08">
+    <gold_keys>
+      <key value="hiss%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hiss%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s41.t11">
+    <gold_keys>
+      <key value="companion%1:18:02::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="companion%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s42.t04">
+    <gold_keys>
+      <key value="yell%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="yell%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s42.t07">
+    <gold_keys>
+      <key value="pilot%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pilot%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s42.t10">
+    <gold_keys>
+      <key value="basket%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="basket%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s42.t11">
+    <gold_keys>
+      <key value="plunge%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="plunge%2:35:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s43.t07">
+    <gold_keys>
+      <key value="yell%2:32:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="yell%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s43.t12">
+    <gold_keys>
+      <key value="leap%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="leap%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s43.t21">
+    <gold_keys>
+      <key value="wear%2:29:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="wear%2:29:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s43.t23">
+    <gold_keys>
+      <key value="loafer%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="loafer%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s44.t01">
+    <gold_keys>
+      <key value="pilot%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pilot%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s44.t03">
+    <gold_keys>
+      <key value="laugh%2:29:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="laugh%2:29:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s44.t05">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="fire%2:33:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s44.t08">
+    <gold_keys>
+      <key value="burner%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="burner%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s44.t15">
+    <gold_keys>
+      <key value="lift%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="lift%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s45.t01">
+    <gold_keys>
+      <key value="scuttle%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="scuttle%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s45.t09">
+    <gold_keys>
+      <key value="plunge%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="plunge%2:35:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t02">
+    <gold_keys>
+      <key value="come%2:30:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t05">
+    <gold_keys>
+      <key value="rest%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rest%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t14">
+    <gold_keys>
+      <key value="have%2:39:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t17">
+    <gold_keys>
+      <key value="pleasure%1:09:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pleasure%1:12:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t20">
+    <gold_keys>
+      <key value="scramble%2:38:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="scramble%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t31">
+    <gold_keys>
+      <key value="half%1:23:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="half%1:23:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s46.t37">
+    <gold_keys>
+      <key value="scramble%2:38:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="scramble%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s47.t01">
+    <gold_keys>
+      <key value="look%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="look%2:39:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t07">
+    <gold_keys>
+      <key value="drive%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="drive%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t12">
+    <gold_keys>
+      <key value="get%2:30:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="get%2:30:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t13">
+    <gold_keys>
+      <key value="get_stuck%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="stick_in%2:32:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t19">
+    <gold_keys>
+      <key value="enlist%2:40:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="enlist%2:33:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t21">
+    <gold_keys>
+      <key value="aid%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="aid%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t25">
+    <gold_keys>
+      <key value="farmer%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="farmer%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t29">
+    <gold_keys>
+      <key value="get_out%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="get_out%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t33">
+    <gold_keys>
+      <key value="hitch%1:06:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="hitch%1:28:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s49.t35">
+    <gold_keys>
+      <key value="pull_out%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="pull_out%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t02">
+    <gold_keys>
+      <key value="rendezvous%2:41:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rendezvous%2:41:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t05">
+    <gold_keys>
+      <key value="balloon%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="balloon%1:06:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t10">
+    <gold_keys>
+      <key value="come%2:30:03::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="come%2:38:04::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t13">
+    <gold_keys>
+      <key value="rest%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rest%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t25">
+    <gold_keys>
+      <key value="watch%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="watch%2:39:05::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t27">
+    <gold_keys>
+      <key value="disassemble%2:36:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="disassemble%2:36:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t29">
+    <gold_keys>
+      <key value="craft%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="craft%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t35">
+    <gold_keys>
+      <key value="activity%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="activity%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t39">
+    <gold_keys>
+      <key value="include%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="include%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t42">
+    <gold_keys>
+      <key value="routine%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="routine%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t45">
+    <gold_keys>
+      <key value="yank%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="yank%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t52">
+    <gold_keys>
+      <key value="punch%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="punch%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t55">
+    <gold_keys>
+      <key value="air%1:27:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="air%1:27:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t60">
+    <gold_keys>
+      <key value="roll_up%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="roll_up%2:30:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t64">
+    <gold_keys>
+      <key value="cram%2:35:10::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="cram%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s50.t68">
+    <gold_keys>
+      <key value="basket%1:06:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="basket%1:06:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s51.t04">
+    <gold_keys>
+      <key value="exercise%1:04:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="exercise%1:04:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s51.t08">
+    <gold_keys>
+      <key value="have%2:39:06::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="have%2:40:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s51.t15">
+    <gold_keys>
+      <key value="follow%2:42:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="follow%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s51.t19">
+    <gold_keys>
+      <key value="drive%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="drive%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t01">
+    <gold_keys>
+      <key value="mean%2:42:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="mean%2:42:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t03">
+    <gold_keys>
+      <key value="return%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="return%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t11">
+    <gold_keys>
+      <key value="watch%2:39:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="watch%2:39:05::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t15">
+    <gold_keys>
+      <key value="duffer%1:18:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="duffer%1:18:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t16">
+    <gold_keys>
+      <key value="maul%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="maul%2:35:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t19">
+    <gold_keys>
+      <key value="tee%1:15:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="tee%1:15:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t22">
+    <gold_keys>
+      <key value="sit%2:35:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="sit%2:35:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t28">
+    <gold_keys>
+      <key value="U"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="nurse%2:29:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s52.t33">
+    <gold_keys>
+      <key value="ego%1:12:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ego%1:12:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s54.t03">
+    <gold_keys>
+      <key value="figure%2:31:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="figure%2:31:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s55.t16">
+    <gold_keys>
+      <key value="clamber%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="clamber%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s56.t06">
+    <gold_keys>
+      <key value="leave%2:31:05::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="leave%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s56.t09">
+    <gold_keys>
+      <key value="ride%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="ride%2:38:01::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s57.t02">
+    <gold_keys>
+      <key value="streak%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="streak%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s57.t11">
+    <gold_keys>
+      <key value="resist%2:33:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="resist%2:33:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s57.t13">
+    <gold_keys>
+      <key value="rear%2:38:00::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="rear%2:38:00::"/>
+      </system>
+    </systems>
+  </token>
+  <token doc_id="d02" token_id="d02.s57.t20">
+    <gold_keys>
+      <key value="salute%2:32:01::"/>
+    </gold_keys>
+    <systems>
+      <system id="UBC-ALM.task-17.aw.txt">
+        <answer value="salute%1:10:00::"/>
+      </system>
+    </systems>
+  </token>
+</test_tokens>
