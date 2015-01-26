@@ -45,7 +45,6 @@ by the different systems. The confidence attribute is optional and it is not alw
 
 #TODO
 
-* SemEval2007-task17: Add the rest of participants
 * SemEval2010-task17: Add the rest of languages
 * SemEval2013-task12: Add wikipedia and babelnet
 
